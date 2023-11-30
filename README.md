@@ -1,4 +1,4 @@
-/* SQL Project - Finance Analysis
+/* SQL Case Study - Finance Analysis
 
 Description :- 
 * This is a Finance Analysis SQL Project as a Finance Analyst for 'The Largest Bank' and the task is finding out about the customers and their banking behavior.
